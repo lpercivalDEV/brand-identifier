@@ -18,7 +18,9 @@ The confidence rating shows how accurate the model ranks its result as correct. 
 ---
 
 ### Things to add
-You will need to set up your own Cloudinary and Azure accounts for these next steps. You can use the free versions for this. Once you have your accounts created, set up a computer vision resource on Azure. Finally, add your Cloudinary and Azure keys into the application's `.env` file. **IMPORTANT: Make sure that your `.env` file is included in your `.gitignore` file or else people will steal your keys! **
+You will need to set up your own Cloudinary and Azure accounts for these next steps. You can use the free versions for this. Once you have your accounts created, set up a computer vision resource on Azure. Finally, add your Cloudinary and Azure keys into the application's `.env` file. 
+
+**IMPORTANT: Make sure that your `.env` file is included in your `.gitignore` file or else people will steal your keys! 
 
 Follow the below format to enter your keys:
 
