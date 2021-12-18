@@ -1,7 +1,7 @@
 # Brand Identifier
 A simple machine learning app that can attempt to identify brands in photos.
 
-![image](https://github.com/lpercivalDEV/brand-identifier/blob/master/public/brand-id-example.png)
+<img src="https://github.com/lpercivalDEV/brand-identifier/blob/master/public/brand-id-example.png" width="250" height="250" />
 
 ## How it works
 This app works by allowing users to upload their own photos (or use the project's default photo files) to be analyzed by the computer vision model. The selected photo is uploaded to Cloudinary which hosts the photo and gives the file its own unique URL.
