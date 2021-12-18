@@ -1,8 +1,10 @@
 # Brand Identifier
-A simple machine learning app that can attempt to identify brands in photos. 
+A simple machine learning app that can attempt to identify brands in photos.
+
+![image]()
 
 ## How it works
-This app works by allowing users to upload their own photos (or use the project's default photo files) to be analyzed by the computer vision model. The selected photo is uploaded to Cloudinary which hosts the photo and gives the file its own unique URL. 
+This app works by allowing users to upload their own photos (or use the project's default photo files) to be analyzed by the computer vision model. The selected photo is uploaded to Cloudinary which hosts the photo and gives the file its own unique URL.
 
 This URL is then sent to Azure, where the computer vision model analyzes the photo and returns the brand(s) (if identified) and a confidence rating for each brand identified.
 
